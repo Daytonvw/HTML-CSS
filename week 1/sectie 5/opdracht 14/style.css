@@ -1,0 +1,25 @@
+img {
+  position: relative;
+  left: 400px;
+  position: relative;
+  top: 300px;
+}
+input {
+  position: relative;
+  left: 800px;
+  position: relative;
+  top: 100px;
+}
+h1 {
+  position: relative;
+  left: 870px;
+  position: relative;
+  top: 100px;
+}
+h4 {
+  position: relative;
+  left: 800px;
+  position: relative;
+  top: 100px;
+  font-family: Calibri;
+}
